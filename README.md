@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/7023608877304659968/](https://www.linkedin.com/newsletters/7023608877304659968/)
 
-- 💬 Ask me about **React , Kotlin , Swift**
+- 💬 Ask me about **java , Kotlin , Swift**
 
 - 📫 How to reach me **fayazleen1122@gmail.com**
 
